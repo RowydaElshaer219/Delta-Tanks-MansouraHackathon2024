@@ -13,4 +13,4 @@ This innovative solution addresses common shopping challenges such as long queue
 
  **You can watch a video summarizing our idea [here](https://drive.google.com/file/d/1nQub6-MFoiFiLvgXKkEJPIKgzGiim87u/view?usp=sharing).**
 
- **Try our website [here]([your-website-link](https://bar2-ruddy.vercel.app/).**
+ **Try our website [here]((https://bar2-ruddy.vercel.app/).**
