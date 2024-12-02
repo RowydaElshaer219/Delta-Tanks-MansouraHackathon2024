@@ -8,3 +8,7 @@ The **Smart Shopping Cart** project aims to revolutionize the shopping experienc
 Additionally, the project incorporates **Grad-CAM (Gradient-weighted Class Activation Mapping)** to visualize and explain how the AI model recognizes and classifies items, ensuring transparency and improving debugging during development.
 
 This innovative solution addresses common shopping challenges such as long queues and manual errors while enhancing efficiency and offering a convenient experience for users.
+
+---
+
+📹 **You can watch a video summarizing our idea [here](https://drive.google.com/file/d/1nQub6-MFoiFiLvgXKkEJPIKgzGiim87u/view?usp=sharing).**
